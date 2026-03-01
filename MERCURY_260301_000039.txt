@@ -1,0 +1,811 @@
+Mercury: A Comprehensive Scientific Overview
+
+1. Basic Properties & Identity
+
+Property Value
+Name Mercury (Messenger of the Gods)
+Planetary Type Terrestrial (rocky) planet
+Age ~4.5 billion years (formed with Solar System) 
+Location Inner Solar System, 1st planet from Sun
+Distance from Sun 46.0 million km (perihelion) - 69.8 million km (aphelion) 
+Average Distance 57.9 million km (0.387 AU)
+Diameter 4,879.4 km (38% of Earth's)
+Mass 3.301 × 10²³ kg (5.5% of Earth's)
+Volume 6.083 × 10¹⁰ km³ (5.4% of Earth's)
+Density (average) 5.427 g/cm³ (second densest planet after Earth)
+Surface Area 74.8 million km² (10% of Earth's)
+Apparent Magnitude -2.6 to +5.7
+
+---
+
+2. Origin & Formation
+
+From Quantum Fluctuations to Planet
+
+· 13.8 billion years ago: Big Bang creates quarks → protons/neutrons → hydrogen/helium
+· Previous generations of stars: Create heavier elements through fusion and supernovae
+· 4.6 billion years ago: Solar nebula collapses to form Sun and protoplanetary disk 
+· Dust accretion: Metal-rich grains condense near hot proto-Sun
+· Planetesimal formation: Collision and accumulation of rocky/metallic bodies
+· Proto-Mercury: Forms as a metal-rich body in inner disk
+
+The Great Impact Theory
+
+Mercury's enormous core relative to its mantle (60% of planet vs. Earth's 15%) suggests a violent youth :
+
+· A giant impact early in its history stripped away much of the original rocky mantle
+· Alternatively, repeated collisions preferentially removed lighter silicate material
+· Another theory: Formation from metal-rich building blocks in the hottest part of the nebula
+
+Formation Timeline
+
+```
+4.6 BYA: Solar nebula collapse
+4.6-4.5 BYA: Planetesimal accretion
+4.5 BYA: Proto-Mercury forms
+4.5-4.4 BYA: Giant impact strips mantle
+4.5-3.9 BYA: Heavy bombardment period [citation:1]
+NOW: ~4.5 billion years old
+```
+
+---
+
+3. Composition (Elemental & Chemical)
+
+Bulk Composition (by mass) 
+
+Component Percentage
+Iron (core) ~60-70%
+Silicate mantle ~25-30%
+Crust ~3-5%
+
+Surface Composition (from MESSENGER data) 
+
+Element/Compound Abundance
+Oxygen (O) Major constituent in silicates
+Silicon (Si) ~15-20% (in silicates)
+Magnesium (Mg) ~10-15%
+Sulfur (S) 2-4% (much higher than Earth)
+Iron (Fe) Low in surface rocks (~2-3%)
+Aluminum (Al) ~5-7%
+Calcium (Ca) ~4-6%
+Sodium (Na) ~2-3%
+Potassium (K) ~0.1%
+
+Unique Chemical Features
+
+· Highly reduced environment: Extremely oxygen-poor compared to Earth 
+· Sulfur-rich: Forms unusual minerals like iron and calcium sulfides
+· Volatile elements: Surprisingly abundant despite proximity to Sun
+· Graphite: Likely present on surface, giving dark coloration
+
+Isotopic Composition
+
+· Similar to Earth and other inner planets, suggesting common origin
+· Slight differences indicate distinct formation history
+
+---
+
+4. Internal Structure & Layers 
+
+From Core to Surface
+
+```
+                    ← Solid Inner Core
+                 ← Liquid Outer Core
+              ← Iron Sulfide Layer (possible)
+           ← Silicate Mantle
+        ← Rocky Crust
+```
+
+1. Solid Inner Core
+
+· Radius: ~1,000 km
+· Composition: Solid iron-nickel alloy
+· Temperature: ~3,000-4,000 K (estimated)
+· State: Solid due to immense pressure
+· Function: Part of dynamo generating magnetic field
+
+2. Liquid Outer Core
+
+· Radius: Extends to ~1,950 km from center
+· Composition: Molten iron-nickel with sulfur
+· Temperature: ~2,000-3,000 K
+· State: Liquid, convecting
+· Thickness: ~950 km
+· Function: Generates magnetic field through dynamo action
+
+3. Iron Sulfide Layer (possible)
+
+· Thickness: ~50 km (if present)
+· Composition: Iron sulfide (FeS)
+· Location: Between core and mantle
+· Status: Proposed but not confirmed
+
+4. Silicate Mantle
+
+· Thickness: ~400 km
+· Composition: Magnesium silicates (olivine, pyroxene)
+· Density: ~3.3 g/cm³
+· Temperature: Decreasing outward from ~1,500 K to ~500 K
+· State: Solid rock
+· Function: Transports heat from core to surface
+
+5. Rocky Crust
+
+· Thickness: ~40 km average 
+· Composition: Silicate rocks with sulfur compounds
+· Density: ~2.7-3.0 g/cm³
+· Surface features: Craters, plains, scarps, hollows
+
+Size Comparison
+
+· Core volume: 60% of total planet (Earth: 15%)
+· Mantle volume: ~35% of total
+· Crust volume: ~5% of total
+
+---
+
+5. Energy & Heat
+
+Internal Heat Sources
+
+Source Contribution
+Primordial heat From formation and differentiation
+Radiogenic heating Decay of radioactive elements (K, U, Th)
+Tidal heating Minor from Sun's gravity
+Core cooling Contraction as core solidifies
+
+Heat Flow
+
+· Surface heat flow: ~0.03 W/m² (much lower than Earth)
+· Total heat loss: ~2 × 10¹¹ W
+· Core cooling rate: Causes planet to shrink
+
+Planetary Shrinkage
+
+· Total contraction: ~7-10 km radius reduction over 4.5 billion years 
+· Current shrinkage rate: Still active, creating scarps
+· Mechanism: Core cooling → contraction → crust buckles
+
+---
+
+6. Temperature Profile 
+
+Surface Temperature Extremes
+
+Location Temperature (K) Temperature (°C)
+Dayside (equator) Up to 700 K 427°C (800°F)
+Nightside Down to 100 K -173°C (-280°F)
+Poles (permanent shadow) ~50-100 K -223°C to -173°C
+Average surface ~440 K 167°C
+
+Temperature Variation
+
+· Largest range: ~600 K (600°C) - greatest in Solar System
+· Daily variation: Extreme due to no atmosphere
+· Polar craters: Permanent cold traps
+· Subsurface: More stable, ~200-300 K
+
+Why Such Extremes
+
+· No atmosphere to retain heat
+· Slow rotation (59 Earth days per rotation)
+· Close to Sun
+· Low thermal inertia of surface
+
+---
+
+7. Pressure Profile
+
+Atmospheric Pressure 
+
+· Surface pressure: ~10⁻¹² to 10⁻¹⁴ bar
+· Comparison: 1 quadrillionth of Earth's atmospheric pressure
+· Density: ~10⁵ to 10⁶ particles/cm³ (near vacuum)
+· Varies: With solar activity and time of day
+
+Internal Pressure
+
+Depth Pressure (GPa) Comparison
+Base of crust ~0.5-1 GPa 5,000-10,000 atm
+Mantle base ~5-10 GPa 50,000-100,000 atm
+Core boundary ~20-30 GPa 200,000-300,000 atm
+Center ~40 GPa 400,000 atm
+
+---
+
+8. Density Profile
+
+Layer Density (g/cm³)
+Surface (average) 2.7-3.0
+Crust base ~3.0-3.1
+Mantle (upper) ~3.2-3.3
+Mantle (lower) ~3.3-3.5
+Core (outer) ~7-9
+Core (inner) ~10-13
+Planet average 5.427
+
+Density Comparison
+
+· Earth: 5.514 g/cm³
+· Venus: 5.243 g/cm³
+· Mars: 3.933 g/cm³
+· Moon: 3.344 g/cm³
+
+---
+
+9. Surface Features & Geology
+
+Major Terrain Types 
+
+1. Intercrater Plains
+
+· Age: Pre-Tolstojan (>4 billion years)
+· Description: Rolling terrain between large craters
+· Origin: Ancient volcanic flows and impact ejecta
+
+2. Smooth Plains
+
+· Age: Tolstojan and Calorian (3.9-3.5 billion years)
+· Description: Relatively flat, low-lying areas
+· Origin: Extensive flood volcanism
+
+3. Cratered Terrain
+
+· Age: All periods
+· Description: Heavily cratered highlands
+· Origin: Impact bombardment
+
+4. Hollows 
+
+· Age: Very young (geologically), possibly forming today
+· Description: Bright, flat-floored depressions (meters to kilometers across)
+· Origin: Sublimation of volatile materials (sulfur compounds)
+· Significance: Indicates ongoing surface modification
+
+5. Lobate Scarps 
+
+· Age: Ongoing formation
+· Description: Wrinkled ridges, cliff-like features (up to 3 km high, hundreds km long)
+· Origin: Thrust faults from planetary contraction
+· Activity: Still forming today
+
+6. Secondary Craters
+
+· Age: Various
+· Description: Craters from ejecta of primary impacts
+
+Geologic Timeline 
+
+Period Age (billions years) Major Events
+Pre-Tolstojan 4.5-3.9 Formation, heavy bombardment, intercrater plains
+Tolstojan 3.9-3.8 Tolstoj basin impact, continued volcanism
+Calorian 3.8-3.5 Caloris basin impact, smooth plains formation
+Mansurian 3.5-1.0 Decreased volcanism, impact cratering
+Kuiperian 1.0-present Rayed craters, hollow formation, ongoing tectonics
+
+Major Impact Basins
+
+· Caloris Basin: 1,550 km diameter, one of largest impacts in Solar System
+· Tolstoj Basin: ~400 km diameter, defines period boundary
+· Rembrandt Basin: ~715 km diameter, relatively young
+
+---
+
+10. Magnetic Field
+
+Field Properties
+
+· Strength: ~1% of Earth's magnetic field (200-400 nT at surface)
+· Global field: Dipole, but offset from center
+· Source: Active dynamo in liquid outer core 
+· Discovery: Mariner 10 (1974) - unexpected for small planet
+
+Magnetic Mysteries 
+
+· Persistence: How does such a small, slowly cooling planet maintain a dynamo?
+· Models suggest: Thin convecting layer in outer core slowly solidifying
+· Inner core growth: Provides energy for field generation
+· Future: Field will weaken as core continues to solidify
+
+Magnetosphere
+
+· Size: Small, compressed by solar wind
+· Structure: Similar to Earth's but much smaller
+· Reconnection events: Frequent due to lack of ionosphere
+
+---
+
+11. Atmosphere (Exosphere) 
+
+Composition
+
+Element Source
+Oxygen (O) Surface sputtering
+Sodium (Na) Surface sputtering, vaporization
+Hydrogen (H) Solar wind capture
+Helium (He) Solar wind capture
+Potassium (K) Surface sputtering
+Calcium (Ca) Surface sputtering
+Water vapor Comet impacts? Sublimation from ice?
+
+Exosphere Properties
+
+· Total mass: ~1,000 kg (tiny)
+· Number density: ~10⁵-10⁶ particles/cm³ at surface
+· Scale height: Varies by element
+· Temperature: Reflects surface temperature (~100-700 K)
+· Not an atmosphere: Particles follow ballistic trajectories
+
+Formation Processes
+
+1. Sputtering: Solar wind knocks atoms from surface
+2. Vaporization: Micrometeorite impacts vaporize surface
+3. Outgassing: Possible release from interior
+4. Solar wind capture: Direct capture of H and He
+
+---
+
+12. Rotation & Orbit 
+
+Orbital Parameters
+
+Property Value
+Orbital period 87.969 Earth days
+Orbital velocity 47.87 km/s (fastest planet)
+Eccentricity 0.2056 (most eccentric)
+Inclination 7.00° to ecliptic
+
+Rotation Properties
+
+Property Value
+Rotation period (sidereal) 58.646 Earth days
+Solar day 176 Earth days
+Rotation speed 10.892 km/h at equator
+Axial tilt 0.027° (nearly zero)
+
+Spin-Orbit Resonance 
+
+· 3:2 resonance: Three rotations for every two orbits
+· Unique in Solar System: Caused by tidal forces from eccentric orbit
+· Result: Long days, complex temperature patterns
+
+Orbital Oddities
+
+· Precession: Perihelion advances faster than Newtonian physics predicts
+· Einstein's test: Mercury's orbit helped confirm General Relativity
+· Resonance lock: Stable due to eccentricity
+
+---
+
+13. Position in Galaxy
+
+Relation to Sagittarius A* 
+
+· Distance from galactic center: ~26,660 light-years (8,178 parsecs)
+· Galactic location: Orion Arm (Local Spur) of Milky Way
+· Orbital speed around galaxy: ~230 km/s
+· Galactic orbital period: ~225-250 million years
+
+Interesting Coincidence
+
+· The angular diameter of Sagittarius A*'s event horizon (20 microarcseconds) corresponds to about 21% of Mercury's orbital diameter 
+· Not physically related, just a cosmic perspective!
+
+---
+
+14. Weather & Environmental Conditions 
+
+Does Mercury Have Weather?
+
+Technically, no - but has exospheric phenomena:
+
+"Weather" Phenomena:
+
+· Sodium tail: Like a comet, sodium atoms stream away from Sun-facing side
+· Exospheric variations: Density changes with solar activity
+· Surface temperature swings: 600°C daily variation
+· Micrometeorite impacts: Constant "rain" of tiny particles
+
+Seasons?
+
+· Virtually no axial tilt means no seasons from tilt
+· Eccentricity seasons: 3:2 resonance creates "hot poles" and "warm poles"
+· Long-term patterns: Precession slowly changes insolation patterns
+
+Space Weather
+
+· Solar wind bombardment: Direct impact (no magnetic field protection on surface)
+· Charged particle precipitation: Creates exospheric emissions
+· Magnetic reconnection: Drives aurora-like phenomena (in UV/X-ray)
+
+---
+
+15. Soil & Regolith
+
+Properties
+
+Property Description
+Thickness Meters to tens of meters
+Composition Silicate fragments, impact glass, agglutinates
+Grain size Microns to meters (from impact pulverization)
+Color Dark gray (low albedo ~0.1-0.2)
+Maturity Highly processed by impacts
+
+Unique Soil Components 
+
+· Sulfur minerals: Iron and calcium sulfides
+· Graphite: Likely present, darkening surface
+· Impact glass: From melting during impacts
+· Volatile-rich patches: Hollows expose fresh material
+
+Polar Regolith 
+
+· Ice content: Up to pure water ice in permanently shadowed craters
+· Organic layer: Dark material covering some ice (possible organic compounds)
+· Cold-trapped volatiles: Frozen for billions of years
+
+---
+
+16. Water & Ice 
+
+Polar Ice Deposits
+
+Property Value
+Total ice mass 10¹⁴-10¹⁵ kg (100 billion - 1 trillion tons)
+Location Permanently shadowed polar craters
+Temperature <100 K (-173°C)
+Thickness Up to tens of meters
+Purity Some areas pure ice, some mixed with regolith
+
+Ice Origin Theories
+
+1. Comet impacts: Water delivered by icy comets
+2. Outgassing: Water released from interior
+3. Solar wind: Hydrogen combines with oxygen from minerals
+
+Organic Materials
+
+· Detection: Dark layer covering some ice deposits
+· Composition: Carbon-rich compounds
+· Significance: Delivery of prebiotic molecules to inner Solar System
+
+Implications for Habitability 
+
+· Mercury not habitable, but:
+· Ice deposits show how water and organics were delivered to inner planets
+· Helps understand Earth's water origin
+
+---
+
+17. Life Potential 
+
+Can Life Exist ON Mercury?
+
+Absolutely not:
+
+· Extreme temperatures (427°C to -173°C)
+· No atmosphere
+· Intense radiation (solar and cosmic)
+· No liquid water
+· High UV flux
+· No protection from solar particles
+
+Could Life Have Existed?
+
+· Early Mercury: Possibly more hospitable?
+· No evidence: Too hot, too small, no atmosphere
+· Polar ice: Could preserve organics but not support life
+
+Astrobiological Significance
+
+· Not for life itself, but for:
+· Understanding volatile delivery to inner planets
+· Preservation of organics in extreme environments
+· Limits of habitable zones
+· Exoplanet analogs: Many hot, rocky exoplanets may resemble Mercury
+
+Official Statement from Scientists 
+
+"To be clear, no one actually thinks Mercurial microbes exist. Instead, scientists are mulling over recent evidence that is reshaping how we view the first rock from the sun."
+
+---
+
+18. Light & Emissions
+
+Reflected Light
+
+· Albedo: 0.1-0.2 (reflects 10-20% of sunlight)
+· Color: Gray to slightly reddish
+· Phase variations: Crescent to full (visible from Earth)
+
+Thermal Emission
+
+· Peak infrared: 5-20 μm (mid-infrared)
+· Dayside brightness temperature: ~600-700 K
+· Nightside: <100 K
+· Radio emission: From surface and possible exosphere
+
+Exospheric Emissions
+
+· Sodium D-line: Bright emission at 589 nm
+· Potassium: Detection possible
+· Calcium: Variable emissions
+· UV emissions: From solar wind interactions
+
+Magnetospheric Emissions
+
+· X-ray fluorescence: From surface under solar X-rays
+· Auroral-like emissions: In UV and X-ray
+· Radio bursts: From particle acceleration
+
+---
+
+19. Gravity & Dynamics
+
+Gravity Parameters
+
+Property Value
+Surface gravity 3.7 m/s² (0.38 g)
+Escape velocity 4.25 km/s
+Gravitational field (surface) 3.7 N/kg
+Gravitational acceleration variance Slight due to rotation and mass distribution
+
+Gravitational Field Properties
+
+· Not uniform: Mass concentrations (mascons) from impacts
+· Degree-2 moments: Related to core size and rotation
+· Tidal response: Deformation from Sun's gravity
+
+Gravitational Intensity
+
+· At surface: ~0.38 × Earth's
+· At 100 km altitude: ~3.5 m/s²
+· At 1,000 km: ~2.5 m/s²
+· At 10,000 km: ~0.3 m/s²
+
+Effects of Low Gravity
+
+· Jump height: 2.6× higher than on Earth
+· Atmosphere retention: Impossible (gas escapes)
+· Topography support: Can maintain steep cliffs
+· Impact ejecta: Thrown farther than on Earth
+
+---
+
+20. Black Hole Possibility
+
+Current State: NOT a Black Hole Candidate
+
+Reason Explanation
+Mass Too small by factor of billions
+Density Not enough for gravitational collapse
+Composition Normal matter, not degenerate
+Fusion No nuclear reactions
+Gravity Balanced by atomic forces
+
+Schwarzschild Radius Calculation
+
+· If Mercury collapsed: Rₛ = 2GM/c² = ~0.5 mm
+· Current radius: ~2,440 km (5 billion × larger)
+· Required compression: Impossible naturally
+
+Theoretical Scenarios
+
+· For black hole: Would need 3-5 solar masses minimum
+· Artificial compression: Physically impossible
+· Primordial black hole: Mercury-sized not possible
+
+If Mercury Became Black Hole
+
+· Same mass, same gravity at distance
+· No light, no surface, no geology
+· Orbit around Sun unchanged
+· Disappears from view
+
+---
+
+21. Evolution: Past & Future
+
+Past Evolution 
+
+4.5 BYA: Formation from solar nebula
+4.5-4.4 BYA: Giant impact strips mantle
+4.4-4.0 BYA: Magma ocean cooling, crust formation
+4.0-3.8 BYA: Heavy bombardment (Late Heavy Bombardment)
+3.8-3.0 BYA: Extensive volcanism, smooth plains formation
+3.0-1.0 BYA: Declining activity, impact cratering
+1.0 BYA - present: Slow cooling, contraction, hollow formation
+
+Current State
+
+· Tectonically active: Scarps still forming 
+· Geologically young features: Hollows <50 million years old
+· Magnetic field: Still active but weak
+· Core: Still partially molten
+
+Future Evolution
+
+Next 1 billion years:
+
+· Continued contraction (additional 1-2 km radius)
+· More hollow formation
+· Impact cratering continues
+
+In 3 billion years:
+
+· Core further solidifies
+· Magnetic field weakens significantly
+· Tectonic activity declines
+
+In 5 billion years:
+
+· Sun becomes red giant
+· Mercury's orbit may become unstable
+· Possibly engulfed by Sun or ejected
+
+In 7.5 billion years:
+
+· Sun expands to ~1-2 AU
+· Mercury almost certainly engulfed
+· Vaporized in Sun's outer atmosphere
+
+Final Fate
+
+· Engulfment: Most likely scenario
+· Survival: If orbit migrates outward (unlikely)
+· Remnant: Any material returned to solar nebula
+· New planetary system: Eventually part of future star formation
+
+---
+
+22. Why Is It a Planet, Not a Star? 
+
+Planet Criteria (Mercury meets all)
+
+1. Orbits the Sun: Yes (primary criterion)
+2. Sufficient mass for hydrostatic equilibrium: Yes (round shape)
+3. Cleared its orbit: Yes (dominates its region)
+4. Not a satellite: Yes (orbits Sun directly)
+
+Star Criteria (Mercury fails all)
+
+Star Criterion Mercury's Status
+Nuclear fusion No (core not hot/dense enough)
+Mass threshold 0.08 solar masses needed (Mercury has 0.00017 solar masses)
+Self-luminous No (reflects sunlight)
+Composition Rocky/metallic, not primarily H/He
+
+Brown Dwarf Boundary
+
+· Deuterium fusion: Needs 13 Jupiter masses (4,000× Mercury's mass)
+· Hydrogen fusion: Needs 80 Jupiter masses (24,000× Mercury's mass)
+· Mercury: 0.17% of even brown dwarf mass
+
+---
+
+23. Atomic & Quantum Behavior
+
+State of Matter
+
+· Core: Solid iron (inner) + liquid iron (outer)
+· Mantle: Solid crystalline silicates
+· Crust: Solid rock
+· Surface: Solid (regolith, rock, ice at poles)
+· Exosphere: Individual atoms in ballistic trajectories
+
+Atomic Processes
+
+Process Location Effect
+Sputtering Surface Releases atoms to exosphere
+Photoionization Exosphere Creates ions
+Charge exchange Exosphere Neutralizes solar wind ions
+Electron stimulation Surface Releases adsorbed atoms
+Thermal desorption Dayside Releases volatiles
+
+Quantum Effects Relevant
+
+· Electron transitions: Cause spectral lines (Na, K, Ca)
+· Blackbody radiation: Thermal emission from surface
+· Photoemission: UV releases electrons from surface
+· Quantum tunneling: Not significant (no fusion)
+
+From Quarks to Planet
+
+```
+Quarks → Protons/Neutrons → Nuclei → Atoms → Molecules → Dust
+    ↓
+Big Bang nucleosynthesis (H, He)
+    ↓
+Stellar nucleosynthesis (C, O, Mg, Si, Fe)
+    ↓
+Supernova nucleosynthesis (heavy elements)
+    ↓
+Solar nebula condensation
+    ↓
+Planetesimal accretion
+    ↓
+Proto-Mercury formation
+    ↓
+Giant impact
+    ↓
+Differentiation (core, mantle, crust)
+    ↓
+Mercury (today)
+```
+
+---
+
+24. Large-Scale Properties
+
+By the Numbers (in human terms)
+
+· Mass: 3.3 × 10²³ kg = 330,000,000,000,000,000,000 tons
+· Surface area: 74.8 million km² (1.5× Asia's area)
+· Volume: 60.8 billion km³ (could fit 1,300 Moons inside)
+· Atoms in Mercury: ~10⁴⁹ (estimate)
+
+Comparative Scale
+
+Object Mercury:Object Ratio
+Earth 1:18 (mass)
+Moon 4.5:1 (mass)
+Sun 1:6 million (mass)
+Jupiter 1:6,000 (mass)
+Milky Way 1:10²¹ (mass)
+
+Human-scale Comparisons
+
+· Walking around equator: 5,000 km = 100 days at 5 km/day
+· Falling from surface to center: Would take ~30 minutes
+· Temperature swing in a day: 600°C (like oven to deep freeze)
+
+---
+
+25. Mysteries & Unsolved Questions 
+
+1. Core formation: Why is core so large compared to mantle?
+2. Magnetic field persistence: How does dynamo still operate?
+3. Volatile retention: How did sulfur and other volatiles survive near Sun?
+4. Hollow formation: Exact mechanism still debated
+5. Ice age: How old are polar ice deposits?
+6. Interior structure: Is there an iron sulfide layer?
+7. Tectonic activity: How widespread is current faulting?
+8. Composition variability: Why such surface chemical diversity?
+9. Exosphere dynamics: Detailed processes not fully understood
+10. Orbital evolution: Was Mercury always in 3:2 resonance?
+
+Upcoming Answers
+
+· BepiColombo mission (arriving 2025-2026) 
+· Will measure:
+  · Magnetic field in detail
+  · Surface composition
+  · Internal structure
+  · Exosphere composition
+  · Polar deposits
+
+---
+
+26. Summary Table
+
+Aspect Summary
+Identity Innermost planet, terrestrial, iron-rich
+Age ~4.5 billion years
+Composition 60-70% iron core, 30% silicate mantle
+Core size ~60% of planet volume (Earth: 15%)
+Temperature -173°C to +427°C (600°C range)
+Atmosphere Exosphere only (10⁻¹² bar)
+Magnetic field Weak but active dynamo
+Rotation 3:2 spin-orbit resonance (58.6-day rotation)
+Surface features Craters, plains, scarps, hollows
+Water ice Yes, at poles in permanent shadow
+Life? No (extreme conditions)
+Black hole? No (insufficient mass)
+Future Engulfed by Sun in 7+ billion years
+Significance Key to understanding terrestrial planet formation
+
+---
+
+This comprehensive overview covers Mercury from its quantum-level composition to its galactic context, from its violent formation through giant impacts to its eventual engulfment by the expanding Sun. Mercury stands as a extreme world—the closest to the Sun, with the largest daily temperature swings, the most eccentric orbit, and the largest core relative to its size. Though lifeless itself, it holds clues to how water and organic materials were delivered to the inner Solar System, and serves as a natural laboratory for understanding the diversity of rocky planets throughout the galaxy.

@@ -1,0 +1,1817 @@
+<html>
+<h1>Jupiter: A Comprehensive Scientific Overview</h1>
+
+<h2>1. Basic Properties & Identity</h2>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Name</strong></td>
+<td>Jupiter (Roman king of the gods; Greek: Zeus)</td>
+</tr>
+<tr>
+<td><strong>Planetary Type</strong></td>
+<td>Gas Giant (Jovian planet)</td>
+</tr>
+<tr>
+<td><strong>Age</strong></td>
+<td>~4.6 billion years (oldest planet, formed ~1 million years after Sun) [citation:1]</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Fifth planet from Sun, between Mars and Saturn</td>
+</tr>
+<tr>
+<td><strong>Distance from Sun</strong></td>
+<td>740.6 million km (perihelion) - 816.4 million km (aphelion) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Average Distance</strong></td>
+<td>778.5 million km (5.2 AU) [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Diameter (equatorial)</strong></td>
+<td>142,984 km (11.2 × Earth) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Diameter (polar)</strong></td>
+<td>133,708 km (oblateness 0.065) [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Mass</strong></td>
+<td>1.898 × 10²⁷ kg (318 × Earth) [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Volume</strong></td>
+<td>1.431 × 10¹⁵ km³ (1,321 × Earth)</td>
+</tr>
+<tr>
+<td><strong>Density (average)</strong></td>
+<td>1.33 g/cm³ [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Surface Area</strong></td>
+<td>6.22 × 10¹⁰ km² (122 × Earth)</td>
+</tr>
+<tr>
+<td><strong>Albedo</strong></td>
+<td>0.51 (highly reflective) [citation:8]</td>
+</tr>
+<tr>
+<td><strong>Apparent Magnitude</strong></td>
+<td>-2.7 (maximum, brighter than all stars except Sirius) [citation:3]</td>
+</tr>
+</tbody>
+</table>
+
+<h2>2. Origin & Formation: From Quantum Foam to King of Planets</h2>
+
+<h3>Cosmic Origins: The First-Born Planet</h3>
+
+<p>Jupiter's story begins with the same cosmic processes that formed the Solar System, but it holds the distinction of being the <strong>oldest planet</strong>, having formed just 1 million years after the Sun—roughly 50 million years before Earth [citation:1].</p>
+
+<p><strong>13.8 billion years ago</strong>: The Big Bang creates quarks, which combine to form protons and neutrons. Primordial nucleosynthesis produces hydrogen (75%) and helium (25%).</p>
+
+<p><strong>Multiple stellar generations</strong>: Stars fuse hydrogen into heavier elements. Supernovae create elements up to uranium, scattering them across the galaxy.</p>
+
+<p><strong>4.6 billion years ago</strong>: A giant molecular cloud in the Orion Arm collapses, forming the Sun and a protoplanetary disk [citation:6].</p>
+
+<h3>The Frost Line: Jupiter's Sweet Spot</h3>
+
+<p>Jupiter formed just beyond the <strong>frost line</strong> (also called snow line)—a boundary at ~5 AU where temperatures were cold enough for volatile compounds like water to condense into ice [citation:1][citation:6]. This location was crucial:</p>
+
+<ul>
+<li><strong>Inside frost line</strong>: Only rocky materials could condense (too warm for ices)</li>
+<li><strong>At frost line</strong>: Water vapor condensed, creating a "pressure trap" that slowed inward-drifting material</li>
+<li><strong>Beyond frost line</strong>: Abundant ice and rock available for planet formation [citation:6]</li>
+</ul>
+
+<h3>Formation Timeline: Core Accretion Model</h3>
+
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Time After Solar System Formation</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Stage 1</strong></td>
+<td>0-1 million years</td>
+<td>Dust condensation, planetesimal formation</td>
+</tr>
+<tr>
+<td><strong>Stage 2</strong></td>
+<td>1-3 million years</td>
+<td>Icy planetesimals coalesce beyond frost line</td>
+</tr>
+<tr>
+<td><strong>Stage 3</strong></td>
+<td>3-5 million years</td>
+<td>Planetary embryo reaches 10-18 Earth masses (M⊕) [citation:6]</td>
+</tr>
+<tr>
+<td><strong>Stage 4</strong></td>
+<td>5-6 million years</td>
+<td>Rapid gas accretion begins—embryo reaches 150 M⊕ in <1,000 years</td>
+</tr>
+<tr>
+<td><strong>Stage 5</strong></td>
+<td>6-10 million years</td>
+<td>Final mass of 318 M⊕ achieved, creates gap in protoplanetary disk [citation:1]</td>
+</tr>
+<tr>
+<td><strong>Stage 6</strong></td>
+<td>10-100 million years</td>
+<td>Moon system forms, migration occurs</td>
+</tr>
+</tbody>
+</table>
+
+<p>This rapid gas accretion phase is remarkably fast—once the embryo reached ~20 M⊕, it doubled its mass every few hundred years until it consumed all available gas in its orbital neighborhood [citation:1].</p>
+
+<h3>The Grand Tack Hypothesis</h3>
+
+<p>Jupiter didn't stay in one place. According to the <strong>Grand Tack hypothesis</strong> [citation:1]:</p>
+
+<ul>
+<li><strong>Formation distance</strong>: ~3.5 AU (closer than current 5.2 AU)</li>
+<li><strong>Inward migration</strong>: Planet opened a gap in the gas disk, causing it to spiral inward to ~1.5 AU (where Mars now orbits)</li>
+<li><strong>Outward migration</strong>: Saturn formed later and migrated inward, becoming trapped in resonance with Jupiter. This reversed both planets' migration, pulling them outward [citation:1]</li>
+<li><strong>Final position</strong>: Jupiter ended at 5.2 AU, Saturn at 9.5 AU</li>
+<li><strong>Timescale</strong>: Entire migration occurred over 3-6 million years [citation:1]</li>
+</ul>
+
+<p>This migration had profound effects on the inner Solar System—it scattered material, limiting Mars's growth and delivering water to Earth [citation:1].</p>
+
+<h3>Jupiter's Primordial Size: A Surprising Discovery</h3>
+
+<p>Recent research (2025) using the orbits of Jupiter's small inner moons Amalthea and Thebe reveals that <strong>young Jupiter was twice its current diameter</strong> [citation:5]:</p>
+
+<ul>
+<li><strong>Size then</strong>: Could have fit 8,000 Earths inside (current: 1,300 Earths)</li>
+<li><strong>Magnetic field then</strong>: 50 times stronger than today [citation:5]</li>
+<li><strong>Explanation</strong>: The planet has contracted over billions of years as it cooled</li>
+</ul>
+
+<h2>3. Composition (Elemental & Chemical)</h2>
+
+<h3>Bulk Atmospheric Composition (by volume)</h3>
+
+<table>
+<thead>
+<tr>
+<th>Gas</th>
+<th>Percentage</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hydrogen (H₂)</strong></td>
+<td>~89.8%</td>
+<td>Molecular hydrogen, similar to solar composition</td>
+</tr>
+<tr>
+<td><strong>Helium (He)</strong></td>
+<td>~10.2%</td>
+<td>Slightly depleted relative to Sun (sedimentation to interior) [citation:8]</td>
+</tr>
+<tr>
+<td><strong>Methane (CH₄)</strong></td>
+<td>~0.3%</td>
+<td>Trace but spectrally important</td>
+</tr>
+<tr>
+<td><strong>Ammonia (NH₃)</strong></td>
+<td>~0.02%</td>
+<td>Forms clouds, variable with depth</td>
+</tr>
+<tr>
+<td><strong>Water (H₂O)</strong></td>
+<td>~0.1% (variable)</td>
+<td>Surprisingly low at probe entry site (hot spot)</td>
+</tr>
+<tr>
+<td><strong>Hydrogen deuteride (HD)</strong></td>
+<td>~0.005%</td>
+<td>Used for D/H ratio measurements</td>
+</tr>
+<tr>
+<td><strong>Ethane, acetylene</strong></td>
+<td>Trace</td>
+<td>Photochemical products</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Interior Composition (by mass)</h3>
+
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Composition</th>
+<th>Mass Fraction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atmosphere</strong></td>
+<td>H-He (solar composition)</td>
+<td>~5%</td>
+</tr>
+<tr>
+<td><strong>Outer envelope</strong></td>
+<td>H-He with enriched heavy elements</td>
+<td>~50%</td>
+</tr>
+<tr>
+<td><strong>Inner envelope</strong></td>
+<td>H-He with dissolved ices/rock</td>
+<td>~30%</td>
+</tr>
+<tr>
+<td><strong>Core</strong></td>
+<td>Rock, ice, metallic elements</td>
+<td>~15% (10-30 M⊕) [citation:6][citation:10]</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Heavy Element Enrichment ("Metallicity")</h3>
+
+<p>Jupiter is enriched in elements heavier than helium compared to the Sun:</p>
+
+<ul>
+<li><strong>Overall enrichment</strong>: 3-5× solar (varies by depth) [citation:10]</li>
+<li><strong>Carbon</strong>: 3× solar (from methane measurements)</li>
+<li><strong>Nitrogen</strong>: 3-4× solar (from ammonia, depleted in upper atmosphere)</li>
+<li><strong>Sulfur</strong>: 3× solar (from hydrogen sulfide at depth)</li>
+<li><strong>Oxygen</strong>: Uncertain (Galileo probe found depletion, but this was anomalous site)</li>
+<li><strong>Noble gases</strong>: 2-3× solar (argon, krypton, xenon—surprising enrichment) [citation:10]</li>
+</ul>
+
+<h3>The "Fuzzy Core" Revelation</h3>
+
+<p>Juno mission gravity data (2017-present) has revolutionized our understanding of Jupiter's interior: <strong>Jupiter has no sharp boundary between core and envelope</strong>. Instead, it possesses a "fuzzy core" or "dilute core"—a region extending to ~50% of the planet's radius where heavy elements are mixed outward [citation:10].</p>
+
+<p>This structure suggests:</p>
+<ul>
+<li><strong>Formation process</strong>: Giant impact(s) during formation mixed core material outward [citation:10]</li>
+<li><strong>Current state</strong>: Compositional gradients prevent convection in this region</li>
+<li><strong>Heavy element distribution</strong>: Most of Jupiter's "metals" (elements heavier than He) are dissolved in metallic hydrogen, not concentrated in a compact core</li>
+</ul>
+
+<h2>4. Internal Structure & Layers</h2>
+
+<h3>From Core to Cloud Tops</h3>
+
+<pre><code>                    ← Exosphere (H, He escaping)
+                 ← Thermosphere (auroral heating)
+              ← Stratosphere (haze layers)
+           ← Troposphere (weather layer, clouds)
+        ← Molecular hydrogen envelope (H₂)
+     ← Metallic hydrogen envelope (H⁺, e⁻)
+  ← "Fuzzy" core region (rock + ice + H-He mixture)
+← Compact core (10-30 M⊕ of rock and ice)
+</code></pre>
+
+<h3>1. Core Region</h3>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Radius</strong></td>
+<td>~0-15% of Jupiter's radius (0-10,000 km)</td>
+</tr>
+<tr>
+<td><strong>Mass</strong></td>
+<td>10-30 Earth masses (5-15% of Jupiter's total mass) [citation:6][citation:10]</td>
+</tr>
+<tr>
+<td><strong>Composition</strong></td>
+<td>Rock (silicates, metals) and ice (water, ammonia, methane ices)</td>
+</tr>
+<tr>
+<td><strong>State</strong></td>
+<td>High-pressure, high-temperature solid/fluid mixture</td>
+</tr>
+<tr>
+<td><strong>Temperature</strong></td>
+<td>~20,000-30,000 K (center) [citation:8]</td>
+</tr>
+<tr>
+<td><strong>Pressure</strong></td>
+<td>~3,000-4,500 GPa (30-45 million atmospheres) [citation:8]</td>
+</tr>
+<tr>
+<td><strong>Density</strong></td>
+<td>~10-25 g/cm³ (core center highest)</td>
+</tr>
+</tbody>
+</table>
+
+<p>The core is not a simple, compact sphere. Juno data suggests it's "fuzzy"—diluted by mixing with surrounding metallic hydrogen, possibly from a giant impact during formation [citation:10].</p>
+
+<h3>2. Metallic Hydrogen Envelope</h3>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Radius range</strong></td>
+<td>~15-55% of Jupiter's radius (10,000-40,000 km)</td>
+</tr>
+<tr>
+<td><strong>Mass fraction</strong></td>
+<td>~60-70% of planet's mass</td>
+</tr>
+<tr>
+<td><strong>Composition</strong></td>
+<td>Hydrogen in metallic state (protons + degenerate electrons), helium, dissolved heavy elements [citation:8]</td>
+</tr>
+<tr>
+<td><strong>State</strong></td>
+<td>Liquid metallic (electrons delocalized, conducts electricity)</td>
+</tr>
+<tr>
+<td><strong>Temperature range</strong></td>
+<td>10,000 K (outer) to 20,000 K (inner)</td>
+</tr>
+<tr>
+<td><strong>Pressure range</strong></td>
+<td>200 GPa (outer) to 3,000 GPa (inner)</td>
+</tr>
+<tr>
+<td><strong>Density range</strong></td>
+<td>1-4 g/cm³ (outer) to 4-10 g/cm³ (inner)</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Critical function</strong>: This layer generates Jupiter's immense magnetic field through dynamo action. Metallic hydrogen is an excellent electrical conductor, and convection in this layer (driven by heat escaping from the core) creates the magnetosphere [citation:8].</p>
+
+<p><strong>Helium rain</strong>: At pressures of 1-2 Mbar, helium becomes immiscible in hydrogen, forming droplets that "rain" downward. This process:</p>
+<ul>
+<li>Generates additional heat (friction)</li>
+<li>Depletes helium from upper atmosphere (explains observed depletion) [citation:10]</li>
+<li>May contribute to differential rotation</li>
+</ul>
+
+<h3>3. Molecular Hydrogen Envelope</h3>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Radius range</strong></td>
+<td>~55-100% of Jupiter's radius (40,000-71,000 km)</td>
+</tr>
+<tr>
+<td><strong>Mass fraction</strong></td>
+<td>~20-30% of planet's mass</td>
+</tr>
+<tr>
+<td><strong>Composition</strong></td>
+<td>Molecular hydrogen (H₂), helium, methane, ammonia, water</td>
+</tr>
+<tr>
+<td><strong>State</strong></td>
+<td>Supercritical fluid (dense gas-like, but not plasma)</td>
+</tr>
+<tr>
+<td><strong>Temperature range</strong></td>
+<td>170 K (cloud tops) to 10,000 K (base) [citation:2][citation:7]</td>
+</tr>
+<tr>
+<td><strong>Pressure range</strong></td>
+<td>0.1 bar (cloud tops) to 200 GPa (base)</td>
+</tr>
+<tr>
+<td><strong>Density range</strong></td>
+<td>0.0002 g/cm³ (cloud tops) to 1 g/cm³ (base)</td>
+</tr>
+</tbody>
+</table>
+
+<h3>4. Atmosphere (Visible "Surface")</h3>
+
+<p>Jupiter has no solid surface. The "surface" astronomers refer to is the level where pressure = 1 bar (similar to Earth's sea-level pressure). Above this lies the dynamic atmosphere we observe.</p>
+
+<h2>5. Energy & Heat</h2>
+
+<h3>Internal Heat Source</h3>
+
+<p>Jupiter radiates <strong>1.67× more energy than it receives from the Sun</strong> [citation:8]. This excess heat comes from:</p>
+
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Contribution</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Gravitational contraction (Kelvin-Helmholtz mechanism)</strong></td>
+<td>~90%</td>
+<td>Slow contraction converts gravitational potential to heat; planet shrinks ~1 cm/year</td>
+</tr>
+<tr>
+<td><strong>Helium rain differentiation</strong></td>
+<td>~10%</td>
+<td>Helium droplets falling release gravitational energy [citation:10]</td>
+</tr>
+<tr>
+<td><strong>Primordial heat</strong></td>
+<td>Minor</td>
+<td>Leftover from formation</td>
+</tr>
+<tr>
+<td><strong>Radiogenic heating</strong></td>
+<td>Negligible</td>
+<td>Core may contain radioactive elements, but contribution minimal</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Heat Flow</h3>
+
+<ul>
+<li><strong>Total internal power</strong>: 3.35 × 10¹⁷ W</li>
+<li><strong>Heat flux at cloud tops</strong>: 5.4 W/m² (Earth: 0.08 W/m² from interior)</li>
+<li><strong>Effective temperature</strong>: 124 K (without internal heat, would be 110 K) [citation:8]</li>
+</ul>
+
+<p>This internal heat drives Jupiter's powerful atmospheric dynamics, including its persistent storms and banded structure.</p>
+
+<h2>6. Temperature Profile</h2>
+
+<h3>Atmospheric Temperature by Altitude</h3>
+
+<table>
+<thead>
+<tr>
+<th>Altitude (km above 1-bar level)</th>
+<th>Pressure (bar)</th>
+<th>Temperature (K)</th>
+<th>Temperature (°C)</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>+500</strong></td>
+<td>10⁻⁶</td>
+<td>900-1,200</td>
+<td>627-927°C</td>
+<td>Thermosphere (auroral heating) [citation:4]</td>
+</tr>
+<tr>
+<td><strong>+300</strong></td>
+<td>10⁻⁴</td>
+<td>400-500</td>
+<td>127-227°C</td>
+<td>Mesosphere</td>
+</tr>
+<tr>
+<td><strong>+100</strong></td>
+<td>0.01</td>
+<td>170-200</td>
+<td>-103 to -73°C</td>
+<td>Stratosphere (haze layer) [citation:7]</td>
+</tr>
+<tr>
+<td><strong>+50</strong></td>
+<td>0.1</td>
+<td>130-150</td>
+<td>-143 to -123°C</td>
+<td>Stratopause</td>
+</tr>
+<tr>
+<td><strong>0</strong></td>
+<td>1.0</td>
+<td>165-170</td>
+<td>-108 to -103°C</td>
+<td>1-bar level (visible "surface") [citation:2][citation:3]</td>
+</tr>
+<tr>
+<td><strong>-50</strong></td>
+<td>3-4</td>
+<td>200-220</td>
+<td>-73 to -53°C</td>
+<td>Ammonia cloud layer (~0.4 bar) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>-100</strong></td>
+<td>8-10</td>
+<td>260-280</td>
+<td>-13 to 7°C</td>
+<td>Ammonium hydrosulfide clouds (~2 bar) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>-150</strong></td>
+<td>20-30</td>
+<td>300-350</td>
+<td>27-77°C</td>
+<td>Water cloud layer (~5 bar)</td>
+</tr>
+<tr>
+<td><strong>-500</strong></td>
+<td>1,000</td>
+<td>800-1,000</td>
+<td>527-727°C</td>
+<td>Deep atmosphere (probe data to 24 bar) [citation:7]</td>
+</tr>
+<tr>
+<td><strong>-2,000</strong></td>
+<td>20,000</td>
+<td>3,000-4,000</td>
+<td>2,727-3,727°C</td>
+<td>Top of metallic hydrogen region</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Temperature Anomalies</h3>
+
+<ul>
+<li><strong>Great Red Spot</strong>: Colder than surroundings (higher altitude clouds), top ~110 K [citation:3]</li>
+<li><strong>Hot spots</strong>: Equatorial regions with 5-μm brightening, temperatures to 300 K at depth [citation:3]</li>
+<li><strong>Polar vortices</strong>: Cyclonic storms with complex thermal structure [citation:4]</li>
+</ul>
+
+<h2>7. Atmospheric Pressure</h2>
+
+<h3>Pressure Profile</h3>
+
+<table>
+<thead>
+<tr>
+<th>Altitude (km above 1-bar level)</th>
+<th>Pressure</th>
+<th>Earth Equivalent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>+500</strong></td>
+<td>10⁻⁶ bar</td>
+<td>Low Earth orbit equivalent</td>
+</tr>
+<tr>
+<td><strong>+100</strong></td>
+<td>0.01 bar</td>
+<td>~80 km altitude on Earth</td>
+</tr>
+<tr>
+<td><strong>+50</strong></td>
+<td>0.1 bar</td>
+<td>~50 km altitude on Earth</td>
+</tr>
+<tr>
+<td><strong>0</strong></td>
+<td>1 bar</td>
+<td>Sea level equivalent [citation:2]</td>
+</tr>
+<tr>
+<td><strong>-50</strong></td>
+<td>4 bar</td>
+<td>4× Earth sea level</td>
+</tr>
+<tr>
+<td><strong>-100</strong></td>
+<td>10 bar</td>
+<td>10× Earth sea level</td>
+</tr>
+<tr>
+<td><strong>-150</strong></td>
+<td>30 bar</td>
+<td>300 m underwater</td>
+</tr>
+<tr>
+<td><strong>-500</strong></td>
+<td>1,000 bar</td>
+<td>10 km underwater</td>
+</tr>
+<tr>
+<td><strong>-1,000</strong></td>
+<td>10,000 bar</td>
+<td>100 km underwater</td>
+</tr>
+<tr>
+<td><strong>-10,000</strong></td>
+<td>10⁶ bar</td>
+<td>2,000 km underwater (impossible on Earth)</td>
+</tr>
+</tbody>
+</table>
+
+<p>The Galileo probe descended to 24 bar (depth ~150 km below clouds) before signal loss, encountering no distinct "surface" [citation:7].</p>
+
+<h2>8. Density Profile</h2>
+
+<table>
+<thead>
+<tr>
+<th>Depth (km below 1-bar level)</th>
+<th>Density (g/cm³)</th>
+<th>State/Composition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0 (cloud tops)</strong></td>
+<td>~0.0002</td>
+<td>Gas (H₂-He atmosphere)</td>
+</tr>
+<tr>
+<td><strong>-500</strong></td>
+<td>0.01-0.05</td>
+<td>Supercritical fluid</td>
+</tr>
+<tr>
+<td><strong>-2,000</strong></td>
+<td>0.1-0.3</td>
+<td>Dense supercritical H₂</td>
+</tr>
+<tr>
+<td><strong>-10,000 (top of metallic H)</strong></td>
+<td>~1.0</td>
+<td>Transition to metallic hydrogen</td>
+</tr>
+<tr>
+<td><strong>-20,000</strong></td>
+<td>2-3</td>
+<td>Metallic hydrogen</td>
+</tr>
+<tr>
+<td><strong>-40,000 (core boundary)</strong></td>
+<td>4-6</td>
+<td>Metallic hydrogen + heavy elements</td>
+</tr>
+<tr>
+<td><strong>Core center</strong></td>
+<td>10-25</td>
+<td>Rock, ice, metallic elements [citation:8]</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Average whole planet</strong>: 1.33 g/cm³—only slightly denser than water, reflecting its composition of light elements [citation:3][citation:8].</p>
+
+<h2>9. Atmospheric Features & Weather</h2>
+
+<h3>Banded Structure: Belts and Zones</h3>
+
+<p>Jupiter's most striking feature is its banded appearance, caused by differential rotation and atmospheric circulation [citation:3][citation:7]:</p>
+
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Appearance</th>
+<th>Altitude</th>
+<th>Temperature</th>
+<th>Motion</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Zones</strong></td>
+<td>Bright, white</td>
+<td>Higher (cloud tops)</td>
+<td>Cooler (~-154°C)</td>
+<td>Rising air (upwelling) [citation:7]</td>
+</tr>
+<tr>
+<td><strong>Belts</strong></td>
+<td>Dark, reddish-brown</td>
+<td>Lower</td>
+<td>Warmer (~-147°C) [citation:7]</td>
+<td>Sinking air (downwelling)</td>
+</tr>
+</tbody>
+</table>
+
+<p>The colors come from complex photochemical reactions involving sulfur, phosphorus, and organic compounds [citation:3].</p>
+
+<h3>Jet Streams</h3>
+
+<ul>
+<li><strong>Speed</strong>: Up to 600 km/h (420 mph) [citation:7]</li>
+<li><strong>Direction</strong>: Alternates with latitude (westward in some bands, eastward in others)</li>
+<li><strong>Pattern</strong>: Reversed between northern and southern hemispheres</li>
+<li><strong>Stratospheric jets</strong>: Recently discovered using ALMA, speeds exceed 900 mph near poles [citation:4]</li>
+</ul>
+
+<h3>The Great Red Spot (GRS)</h3>
+
+<p>The most famous storm in the Solar System [citation:3][citation:7]:</p>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td>~16,000 × 12,000 km (currently shrinking) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Historical size (1800s)</strong></td>
+<td>48,000 km (could fit 3 Earths)</td>
+</tr>
+<tr>
+<td><strong>Current Earth-fitting</strong></td>
+<td>Still large enough to swallow Earth</td>
+</tr>
+<tr>
+<td><strong>Rotation period</strong></td>
+<td>~6 days (counterclockwise, anticyclonic) [citation:7]</td>
+</tr>
+<tr>
+<td><strong>Wind speed at periphery</strong></td>
+<td>400 km/h (250 mph) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Cloud-top temperature</strong></td>
+<td>~110 K (-163°C) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Altitude</strong></td>
+<td>~8 km above surroundings [citation:7]</td>
+</tr>
+<tr>
+<td><strong>Age</strong></td>
+<td>Possibly same storm observed 1665-1713; continuously observed since 1878 [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Color</strong></td>
+<td>Salmon-pink (cause unknown: complex organics? red phosphorus? sulfur compounds?) [citation:3]</td>
+</tr>
+</tbody>
+</table>
+
+<p>The GRS is heating Jupiter's upper atmosphere from below, creating temperatures hundreds of degrees hotter than expected [citation:3].</p>
+
+<h3>Other Storms</h3>
+
+<ul>
+<li><strong>White ovals</strong>: Smaller anticyclonic storms at southern latitudes [citation:3]</li>
+<li><strong>Brown barges</strong>: Dark elliptical features at northern latitudes (holes in cloud deck)</li>
+<li><strong>Polar cyclones</strong>: Juno discovered clusters of cyclones at both poles, each storm Earth-sized [citation:3][citation:4]</li>
+<li><strong>Merging storms</strong>: Smaller spots can merge, as observed by Voyager and subsequent missions [citation:7]</li>
+</ul>
+
+<h3>Lightning</h3>
+
+<ul>
+<li><strong>Frequency</strong>: Comparable to Earth's thunderstorm frequency</li>
+<li><strong>Location</strong>: Concentrated at mid-latitudes, especially in belts [citation:7]</li>
+<li><strong>Energy</strong>: Superbolts may be more powerful than Earth's lightning</li>
+<li><strong>Detection</strong>: First visible lightning on another planet seen by Galileo [citation:7]</li>
+<li><strong>Water connection</strong>: Associated with water clouds at depth (5-10 bar)</li>
+</ul>
+
+<h3>Auroras</h3>
+
+<p>Jupiter has the most powerful auroras in the Solar System [citation:4][citation:7]:</p>
+
+<ul>
+<li><strong>Source</strong>: Primarily from Io's volcanic material (sulfur, oxygen ions) spiraling along magnetic field lines [citation:7]</li>
+<li><strong>Power</strong>: Hundreds of times more energetic than Earth's auroras</li>
+<li><strong>Wavelengths</strong>: UV, visible, X-ray, radio [citation:4]</li>
+<li><strong>Structure</strong>: Main oval, polar emissions, satellite footprints (Io, Europa, Ganymede) [citation:4]</li>
+<li><strong>Discovery of faint rings</strong>: Juno detected expanding ring-like auroral features from solar wind interaction [citation:4]</li>
+</ul>
+
+<h2>10. Cloud Layers</h2>
+
+<p>Jupiter's clouds are organized in distinct vertical layers [citation:3][citation:7]:</p>
+
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Altitude (pressure)</th>
+<th>Composition</th>
+<th>Temperature</th>
+<th>Appearance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Upper clouds</strong></td>
+<td>0.2-0.5 bar</td>
+<td>Ammonia ice (NH₃) crystals [citation:3][citation:7]</td>
+<td>~120 K</td>
+<td>White (highest, seen in zones)</td>
+</tr>
+<tr>
+<td><strong>Middle clouds</strong></td>
+<td>1-2 bar</td>
+<td>Ammonium hydrosulfide (NH₄SH) [citation:3][citation:7]</td>
+<td>~200 K</td>
+<td>Brown/red (belts)</td>
+</tr>
+<tr>
+<td><strong>Lower clouds</strong></td>
+<td>3-7 bar</td>
+<td>Water ice/water-ammonia solution [citation:7]</td>
+<td>~260 K</td>
+<td>Dense, possibly forms thunderstorms</td>
+</tr>
+<tr>
+<td><strong>Deep clouds</strong></td>
+<td>>10 bar</td>
+<td>Water droplets, ammonia solution</td>
+<td>>300 K</td>
+<td>Not directly observed</td>
+</tr>
+</tbody>
+</table>
+
+<p>The red/brown colors likely come from:</p>
+<ul>
+<li>Phosphorus compounds (red phosphorus)</li>
+<li>Sulfur compounds (ammonium polysulfides) [citation:3]</li>
+<li>Complex organic molecules (tholins)</li>
+<li>Photochemical reactions driven by UV sunlight</li>
+</ul>
+
+<h2>11. Rotation: Three Systems in One</h2>
+
+<p>Jupiter exhibits <strong>differential rotation</strong>—different latitudes rotate at different rates [citation:3][citation:8]. This led astronomers to define three rotation systems:</p>
+
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Latitude Coverage</th>
+<th>Rotation Period</th>
+<th>Used For</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>System I</strong></td>
+<td>Equatorial region (±10°)</td>
+<td>9h 50m 30s [citation:3]</td>
+<td>Tracking equatorial features (fastest rotation)</td>
+</tr>
+<tr>
+<td><strong>System II</strong></td>
+<td>Higher latitudes (>±10°)</td>
+<td>9h 55m 41s [citation:3]</td>
+<td>Tracking mid-latitude features</td>
+</tr>
+<tr>
+<td><strong>System III</strong></td>
+<td>Planet's interior (magnetic field)</td>
+<td>9h 55m 29s [citation:3]</td>
+<td>Official rotation period (radio emissions)</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>System III</strong> is considered the true rotation period of the planet's interior, where the magnetic field is generated. It has been constant for decades of observation [citation:3].</p>
+
+<p>The equatorial region rotates ~5 minutes faster than the rest of the planet—a consequence of Jupiter's fluid nature and lack of solid surface.</p>
+
+<h2>12. Orbital Parameters</h2>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Orbital period (year)</strong></td>
+<td>11.86 Earth years [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Synodic period (opposition interval)</strong></td>
+<td>398.9 days [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Average orbital distance</strong></td>
+<td>5.2 AU (778.5 million km) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Orbital eccentricity</strong></td>
+<td>0.048 (slightly elliptical) [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Perihelion (closest to Sun)</strong></td>
+<td>4.95 AU (740.6 million km)</td>
+</tr>
+<tr>
+<td><strong>Aphelion (farthest from Sun)</strong></td>
+<td>5.46 AU (816.4 million km)</td>
+</tr>
+<tr>
+<td><strong>Orbital inclination</strong></td>
+<td>1.3° to ecliptic [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Orbital velocity</strong></td>
+<td>13.1 km/s (average) [citation:3][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Axial tilt (obliquity)</strong></td>
+<td>3.1° (very small seasons) [citation:3][citation:8]</td>
+</tr>
+</tbody>
+</table>
+
+<p>Jupiter's minimal axial tilt means it experiences virtually no seasonal variations—unlike Earth's dramatic seasons.</p>
+
+<h2>13. Position in Galaxy</h2>
+
+<h3>Galactic Context</h3>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Distance from galactic center (Sagittarius A*)</strong></td>
+<td>~26,660 light-years (8,178 parsecs)</td>
+</tr>
+<tr>
+<td><strong>Galactic location</strong></td>
+<td>Orion Arm (Local Spur), Milky Way</td>
+</tr>
+<tr>
+<td><strong>Galactic orbital speed</strong></td>
+<td>~230 km/s (with Solar System)</td>
+</tr>
+<tr>
+<td><strong>Galactic orbital period</strong></td>
+<td>~225-250 million years</td>
+</tr>
+<tr>
+<td><strong>Completed galactic orbits</strong></td>
+<td>~20 since Jupiter formed</td>
+</tr>
+</tbody>
+</table>
+
+<p>Jupiter has completed roughly 20 circuits around the Milky Way since its formation 4.6 billion years ago.</p>
+
+<h2>14. Magnetic Field & Magnetosphere</h2>
+
+<h3>Field Properties</h3>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+<th>Earth Comparison</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Magnetic moment</strong></td>
+<td>1.55 × 10²⁷ Am²</td>
+<td>20,000× Earth's</td>
+</tr>
+<tr>
+<td><strong>Surface field strength (equator)</strong></td>
+<td>4.3 gauss (0.43 mT) [citation:3][citation:8]</td>
+<td>10× Earth's surface field</td>
+</tr>
+<tr>
+<td><strong>Dipole tilt</strong></td>
+<td>~10° to rotation axis</td>
+<td>Earth: 9.6°</td>
+</tr>
+<tr>
+<td><strong>Offset from center</strong></td>
+<td>0.1 Jupiter radius (northward) [citation:8]</td>
+<td>Earth offset ~500 km</td>
+</tr>
+<tr>
+<td><strong>Polar field strength</strong></td>
+<td>~14 gauss</td>
+<td>2× equatorial strength</td>
+</tr>
+</tbody>
+</table>
+
+<h3>The Great Blue Spot</h3>
+
+<p>Juno discovered an intense magnetic anomaly near the equator called the <strong>Great Blue Spot</strong>—a region where the magnetic field is particularly strong and complex, possibly related to deep atmospheric flows [citation:4].</p>
+
+<h3>Magnetosphere: The Largest Structure in the Solar System</h3>
+
+<p>Jupiter's magnetosphere is the largest coherent structure in the Solar System—if visible to the naked eye, it would appear larger than the full Moon in Earth's sky [citation:4][citation:7].</p>
+
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Size/Distance</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dayside magnetopause</strong></td>
+<td>65-100 Jupiter radii (3-5 million km)</td>
+<td>Boundary with solar wind</td>
+</tr>
+<tr>
+<td><strong>Magnetotail length</strong></td>
+<td>>600 million km (beyond Saturn's orbit!)</td>
+<td>Longest in Solar System</td>
+</tr>
+<tr>
+<td><strong>Bow shock standoff</strong></td>
+<td>~45 Jupiter radii</td>
+<td>Where solar wind first slows</td>
+</tr>
+<tr>
+<td><strong>Plasma sheet thickness</strong></td>
+<td>~5 Jupiter radii</td>
+<td>Contains ionized material from Io</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Radiation Belts</h3>
+
+<ul>
+<li><strong>Intensity</strong>: Extremely hazardous—would kill unshielded humans within hours</li>
+<li><strong>Peak flux</strong>: Near Io's orbit (~6 Jupiter radii)</li>
+<li><strong>Particles</strong>: Energetic electrons, protons, heavy ions</li>
+<li><strong>Radio emission</strong>: Synchrotron radiation from relativistic electrons [citation:3][citation:7]</li>
+</ul>
+
+<h2>15. Rings</h2>
+
+<p>Jupiter has a faint ring system, discovered by Voyager 1 (1979) [citation:3][citation:7]:</p>
+
+<table>
+<thead>
+<tr>
+<th>Ring Component</th>
+<th>Distance from Center</th>
+<th>Width</th>
+<th>Thickness</th>
+<th>Composition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Halo ring</strong></td>
+<td>92,000-122,500 km</td>
+<td>~30,000 km</td>
+<td>10,000 km (thick)</td>
+<td>Fine dust</td>
+</tr>
+<tr>
+<td><strong>Main ring</strong></td>
+<td>122,500-129,000 km</td>
+<td>~6,500 km</td>
+<td>30-100 km (thin) [citation:7]</td>
+<td>Dust from Adrastea, Metis</td>
+</tr>
+<tr>
+<td><strong>Gossamer rings</strong></td>
+<td>129,000-241,000 km</td>
+<td>~112,000 km</td>
+<td>Very thin</td>
+<td>Dust from Amalthea, Thebe</td>
+</tr>
+</tbody>
+</table>
+
+<p>The rings are <strong>dusty and tenuous</strong>—unlike Saturn's icy rings. They're continuously replenished by micrometeorite impacts on the inner moons [citation:7].</p>
+
+<h2>16. Moons: A Miniature Solar System</h2>
+
+<p>Jupiter has <strong>95 known moons</strong> (as of 2024) [citation:3], divided into several groups:</p>
+
+<h3>The Galilean Moons (discovered 1610 by Galileo)</h3>
+
+<table>
+<thead>
+<tr>
+<th>Moon</th>
+<th>Distance (× Moon's orbit)</th>
+<th>Diameter (km)</th>
+<th>Mass (× Moon)</th>
+<th>Key Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Io</strong></td>
+<td>1.05</td>
+<td>3,643</td>
+<td>1.22</td>
+<td>Most volcanically active body in Solar System; sulfur surface</td>
+</tr>
+<tr>
+<td><strong>Europa</strong></td>
+<td>1.67</td>
+<td>3,122</td>
+<td>0.66</td>
+<td>Icy surface, subsurface ocean, potential habitability [citation:9]</td>
+</tr>
+<tr>
+<td><strong>Ganymede</strong></td>
+<td>2.67</td>
+<td>5,262</td>
+<td>2.02</td>
+<td>Largest moon in Solar System; own magnetic field</td>
+</tr>
+<tr>
+<td><strong>Callisto</strong></td>
+<td>4.70</td>
+<td>4,821</td>
+<td>1.46</td>
+<td>Heavily cratered, ancient surface</td>
+</tr>
+</tbody>
+</table>
+
+<p>The Galilean moons formed from a <strong>circumplanetary disk</strong>—a miniature version of the solar nebula—during Jupiter's formation [citation:6].</p>
+
+<h3>Inner Moons (Ring-related)</h3>
+
+<ul>
+<li><strong>Metis, Adrastea, Amalthea, Thebe</strong></li>
+<li>Orbit within the ring system</li>
+<li>Supply dust to the rings through impacts [citation:7]</li>
+<li>Amalthea is reddish (sulfur from Io?)</li>
+</ul>
+
+<h3>Irregular Moons (Captured Asteroids)</h3>
+
+<ul>
+<li><strong>~75 moons</strong> with distant, eccentric, inclined orbits</li>
+<li>Divided into prograde and retrograde groups</li>
+<li>Likely captured from asteroid population during or after formation [citation:6]</li>
+<li>Himalia group largest among them (~170 km)</li>
+</ul>
+
+<h2>17. Life Potential</h2>
+
+<h3>On Jupiter Itself: Extremely Unlikely</h3>
+
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Jupiter's Condition</th>
+<th>Requirement for Life</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Temperature</strong></td>
+<td>-150°C (cloud tops) to thousands °C (deep)</td>
+<td>Liquid water range (0-100°C) only in narrow zone (~0.5-5 bar?)</td>
+</tr>
+<tr>
+<td><strong>Pressure</strong></td>
+<td>0.1 bar to millions bar</td>
+<td>1-1,000 bar tolerable</td>
+</tr>
+<tr>
+<td><strong>Water availability</strong></td>
+<td>Unknown deep abundance, clouds dilute</td>
+<td>Liquid water essential</td>
+</tr>
+<tr>
+<td><strong>Chemical energy</strong></td>
+<td>Complex disequilibrium chemistry possible?</td>
+<td>Energy source needed</td>
+</tr>
+<tr>
+<td><strong>Stability</strong></td>
+<td>Extreme turbulence, storms, mixing</td>
+<td>Stable environment needed</td>
+</tr>
+</tbody>
+</table>
+
+<p>A 2025 study suggests that while Jupiter's bulk conditions are hostile, the <strong>cloud decks at ~0.5-5 bar</strong> have temperatures and pressures that could theoretically support extremophile Earth life—if there were liquid water [citation:10]. However, no liquid water exists in Jupiter's atmosphere (water is frozen or vapor).</p>
+
+<h3>On Europa and Ganymede: Promising</h3>
+
+<p>The real astrobiological interest lies in Jupiter's icy moons [citation:9]:</p>
+
+<ul>
+<li><strong>Europa</strong>: Global subsurface ocean, tidal heating, chemical gradients at seafloor</li>
+<li><strong>Ganymede</strong>: Subsurface ocean between ice layers, possible interactions with rocky mantle</li>
+<li><strong>Callisto</strong>: Possible subsurface ocean, but less energy</li>
+</ul>
+
+<p>The <strong>JUICE mission</strong> (JUpiter ICy moons Explorer, arriving 2031) and <strong>Europa Clipper</strong> (arriving 2030) will investigate these moons' habitability [citation:9].</p>
+
+<h2>18. Light & Emissions</h2>
+
+<h3>Reflected Light</h3>
+
+<ul>
+<li><strong>Albedo</strong>: 0.51 (highly reflective due to clouds) [citation:8]</li>
+<li><strong>Color</strong>: Yellowish-white with reddish/brown bands</li>
+<li><strong>Magnitude</strong>: -2.7 at opposition (brighter than any star except Sirius) [citation:3]</li>
+<li><strong>Phase angle effects</strong>: Brightens dramatically at opposition (opposition surge)</li>
+</ul>
+
+<h3>Thermal Emission</h3>
+
+<ul>
+<li><strong>Peak</strong>: ~10-20 μm (mid-infrared)</li>
+<li><strong>Brightness temperature</strong>: ~124 K (average), varies with latitude and features</li>
+<li><strong>5-μm hot spots</strong>: Equatorial regions where deep heat escapes through cloud holes [citation:3]</li>
+</ul>
+
+<h3>Radio Emissions</h3>
+
+<p>Jupiter is a powerful radio source [citation:3][citation:7]:</p>
+
+<ul>
+<li><strong>Decametric (10s MHz)</strong>: Io-controlled emission (Io modulates via magnetic flux tube)</li>
+<li><strong>Decimetric (cm-wavelength)</strong>: Synchrotron radiation from radiation belts [citation:7]</li>
+<li><strong>Auroral radio</strong>: Kilometric radiation from polar regions</li>
+<li><strong>Thermal radio</strong>: From atmosphere at mm-cm wavelengths</li>
+</ul>
+
+<h3>Auroral UV/X-ray</h3>
+
+<ul>
+<li><strong>UV aurora</strong>: Brightest in Solar System [citation:4][citation:7]</li>
+<li><strong>X-ray aurora</strong>: Pulsating hotspots at poles</li>
+<li><strong>Io footprint</strong>: UV spot where Io's flux tube hits atmosphere</li>
+</ul>
+
+<h2>19. Gravity & Dynamics</h2>
+
+<h3>Gravity Parameters</h3>
+
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+<th>Earth Comparison</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Surface gravity (1 bar level)</strong></td>
+<td>24.79 m/s²</td>
+<td>2.53 × Earth [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Escape velocity</strong></td>
+<td>60.2 km/s [citation:3][citation:8]</td>
+<td>5.4 × Earth</td>
+</tr>
+<tr>
+<td><strong>Gravitational field (1 bar)</strong></td>
+<td>24.8 N/kg</td>
+<td>2.5 × Earth</td>
+</tr>
+<tr>
+<td><strong>Equatorial gravity reduction</strong></td>
+<td>~10% from rotation</td>
+<td>Contributes to oblateness</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Gravity Variations</h3>
+
+<ul>
+<li><strong>Juno gravity measurements</strong>: Revealed asymmetric gravity field from deep atmospheric flows [citation:10]</li>
+<li><strong>Zonal winds</strong>: Extend to depths of 3,000 km</li>
+<li><strong>Core size constraints</strong>: From gravity harmonics (J₂, J₄, J₆, etc.)</li>
+</ul>
+
+<h3>Gravitational Intensity by Altitude</h3>
+
+<table>
+<thead>
+<tr>
+<th>Altitude (km above 1-bar level)</th>
+<th>Gravity (m/s²)</th>
+<th>% of 1-bar value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0 (1 bar)</strong></td>
+<td>24.8</td>
+<td>100%</td>
+</tr>
+<tr>
+<td><strong>1,000</strong></td>
+<td>23.1</td>
+<td>93%</td>
+</tr>
+<tr>
+<td><strong>10,000</strong></td>
+<td>16.7</td>
+<td>67%</td>
+</tr>
+<tr>
+<td><strong>100,000</strong></td>
+<td>4.5</td>
+<td>18%</td>
+</tr>
+<tr>
+<td><strong>Io's orbit (422,000 km)</strong></td>
+<td>0.7</td>
+<td>2.8%</td>
+</tr>
+</tbody>
+</table>
+
+<h2>20. Black Hole Possibility</h2>
+
+<h3>Current State: NOT a Black Hole Candidate</h3>
+
+<table>
+<thead>
+<tr>
+<th>Reason</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mass</strong></td>
+<td>Too small by factor of millions (needs >3 solar masses)</td>
+</tr>
+<tr>
+<td><strong>Density</strong></td>
+<td>Average 1.33 g/cm³—far too low for collapse</td>
+</tr>
+<tr>
+<td><strong>Composition</strong></td>
+<td>Normal matter supported by electron/atomic forces</td>
+</tr>
+<tr>
+<td><strong>Fusion</strong></td>
+<td>No nuclear reactions (not massive enough) [citation:1][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Gravity</strong></td>
+<td>Balanced by pressure from electron degeneracy in core</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Schwarzschild Radius Calculation</h3>
+
+<ul>
+<li><strong>If Jupiter collapsed</strong>: Rₛ = 2GM/c² = ~2.8 meters</li>
+<li><strong>Current radius</strong>: 71,492 km (25 million × larger)</li>
+<li><strong>Required compression</strong>: Impossible naturally</li>
+</ul>
+
+<h3>Theoretical Scenarios</h3>
+
+<ul>
+<li><strong>For black hole</strong>: Would need 3-5 solar masses minimum</li>
+<li><strong>Artificial compression</strong>: Physically impossible with known physics</li>
+<li><strong>Primordial black holes</strong>: Jupiter-mass not excluded theoretically, but would have been detected by now</li>
+</ul>
+
+<h3>If Jupiter Became Black Hole</h3>
+
+<ul>
+<li>Same mass, same gravity at distance</li>
+<li>No light, no atmosphere, no storms</li>
+<li>Moons continue orbiting unchanged</li>
+<li>Complete darkness, disappearance from view</li>
+<li>Magnetosphere vanishes</li>
+</ul>
+
+<h2>21. Why Jupiter Is NOT a Star (The "Failed Star" Question)</h2>
+
+<p>Jupiter is often called a "failed star" because it's made of the same ingredients as the Sun [citation:1][citation:8]. But the comparison is misleading—Jupiter is far from stardom.</p>
+
+<h3>Mass Comparison</h3>
+
+<table>
+<thead>
+<tr>
+<th>Object</th>
+<th>Mass (Earth masses)</th>
+<th>Mass (Jupiter masses)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Jupiter</strong></td>
+<td>318 M⊕</td>
+<td>1 M♃</td>
+</tr>
+<tr>
+<td><strong>Minimum brown dwarf</strong></td>
+<td>4,000 M⊕</td>
+<td>13 M♃</td>
+</tr>
+<tr>
+<td><strong>Minimum red dwarf star</strong></td>
+<td>24,000 M⊕</td>
+<td>80 M♃</td>
+</tr>
+<tr>
+<td><strong>Sun</strong></td>
+<td>333,000 M⊕</td>
+<td>1,048 M♃</td>
+</tr>
+</tbody>
+</table>
+
+<h3>What Would It Take for Jupiter to Become a Star?</h3>
+
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Mass Required</th>
+<th>Jupiter's Mass</th>
+<th>Factor Increase</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deuterium fusion (brown dwarf)</strong></td>
+<td>13 M♃ [citation:1]</td>
+<td>1 M♃</td>
+<td>13× current mass</td>
+</tr>
+<tr>
+<td><strong>Hydrogen fusion (red dwarf)</strong></td>
+<td>80 M♃ [citation:1][citation:8]</td>
+<td>1 M♃</td>
+<td>80× current mass</td>
+</tr>
+</tbody>
+</table>
+
+<p>Even if Jupiter were 80 times more massive, it would be a <strong>dim red dwarf</strong>, glowing faintly—still far from a Sun-like star.</p>
+
+<h3>Why Jupiter Stopped Growing</h3>
+
+<ul>
+<li><strong>Ran out of gas</strong>: Jupiter formed late enough that the solar nebula was dissipating [citation:1]</li>
+<li><strong>Cleared its orbit</strong>: Created a gap in the disk, isolating itself from further gas accretion [citation:1]</li>
+<li><strong>Saturn's influence</strong>: Saturn formed and prevented Jupiter from migrating to gather more material</li>
+</ul>
+
+<p>So while Jupiter is chemically similar to stars, it's more accurate to call it a <strong>planet that almost became a brown dwarf</strong>—but still missed by a factor of 13 in mass [citation:1][citation:8].</p>
+
+<h2>22. Atomic & Quantum Behavior</h2>
+
+<h3>State of Matter on Jupiter</h3>
+
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>State</th>
+<th>Key Physics</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Atmosphere</strong></td>
+<td>Molecular gas</td>
+<td>Ideal gas law, radiative transfer</td>
+</tr>
+<tr>
+<td><strong>Deep atmosphere</strong></td>
+<td>Supercritical fluid</td>
+<td>Van der Waals forces, non-ideal behavior</td>
+</tr>
+<tr>
+<td><strong>Molecular H₂ envelope</strong></td>
+<td>Dense supercritical fluid</td>
+<td>Pressure-induced infrared absorption</td>
+</tr>
+<tr>
+<td><strong>Metallic H envelope</strong></td>
+<td>Liquid metallic (degenerate electrons)</td>
+<td>Electron degeneracy pressure, electrical conduction [citation:8]</td>
+</tr>
+<tr>
+<td><strong>Core</strong></td>
+<td>High-pressure solid/fluid</td>
+<td>Electron degeneracy, Coulomb interactions</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Quantum Effects Relevant</h3>
+
+<table>
+<thead>
+<tr>
+<th>Effect</th>
+<th>Location</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Electron degeneracy</strong></td>
+<td>Metallic hydrogen, core</td>
+<td>Supports structure against gravity [citation:8]</td>
+</tr>
+<tr>
+<td><strong>Pressure ionization</strong></td>
+<td>Metallic hydrogen transition</td>
+<td>H₂ molecules break down into H⁺ + e⁻ [citation:8]</td>
+</tr>
+<tr>
+<td><strong>Magnetic dynamo</strong></td>
+<td>Metallic hydrogen</td>
+<td>Generates field via magnetohydrodynamics</td>
+</tr>
+<tr>
+<td><strong>Molecular absorption</strong></td>
+<td>Atmosphere</td>
+<td>CH₄, NH₃, H₂O spectral features</td>
+</tr>
+<tr>
+<td><strong>Pressure broadening</strong></td>
+<td>Deep atmosphere</td>
+<td>Broadens spectral lines, complicates remote sensing</td>
+</tr>
+<tr>
+<td><strong>Synchrotron radiation</strong></td>
+<td>Radiation belts</td>
+<td>Relativistic electrons emit radio waves [citation:7]</td>
+</tr>
+<tr>
+<td><strong>Quantum tunneling</strong></td>
+<td>Not significant</td>
+<td>No fusion, unlike stars</td>
+</tr>
+</tbody>
+</table>
+
+<h3>From Quarks to Giant Planet</h3>
+
+<pre><code>Quarks → Protons/Neutrons → Nuclei → Atoms → Molecules → Planet
+    ↓
+Big Bang nucleosynthesis (H, He)
+    ↓
+Stellar nucleosynthesis (C, N, O, etc.)
+    ↓
+Supernova nucleosynthesis (heavy elements)
+    ↓
+Solar nebula condensation
+    ↓
+Planetesimal accretion beyond frost line
+    ↓
+Core formation (10-20 M⊕)
+    ↓
+Runaway gas accretion (×10⁴ in 10⁵ years)
+    ↓
+Circumplanetary disk formation
+    ↓
+Galilean moon formation
+    ↓
+Planetary migration (Grand Tack)
+    ↓
+Jupiter (today)
+</code></pre>
+
+<h2>23. Large-Scale Properties</h2>
+
+<h3>By the Numbers (in human terms)</h3>
+
+<table>
+<thead>
+<tr>
+<th>Quantity</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mass</strong></td>
+<td>1.898 × 10²⁷ kg = 1,898,000,000,000,000,000,000,000 tons</td>
+</tr>
+<tr>
+<td><strong>Surface area</strong></td>
+<td>62 billion km² (122 × Earth's surface)</td>
+</tr>
+<tr>
+<td><strong>Volume</strong></td>
+<td>1.43 trillion km³ (1,321 × Earth)</td>
+</tr>
+<tr>
+<td><strong>Atmosphere mass</strong></td>
+<td>~1 × 10²⁰ kg (20,000 × Earth's atmosphere)</td>
+</tr>
+<tr>
+<td><strong>Core mass</strong></td>
+<td>5-15 × 10²⁵ kg (5-15 × Earth)</td>
+</tr>
+<tr>
+<td><strong>Atoms in Jupiter</strong></td>
+<td>~10⁵⁴ (estimate)</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Comparative Scale</h3>
+
+<table>
+<thead>
+<tr>
+<th>Object</th>
+<th>Jupiter:Object Ratio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Earth</strong></td>
+<td>318:1 (mass)</td>
+</tr>
+<tr>
+<td><strong>All other planets combined</strong></td>
+<td>2.5:1 (Jupiter heavier)</td>
+</tr>
+<tr>
+<td><strong>Sun</strong></td>
+<td>1:1,048 (mass)</td>
+</tr>
+<tr>
+<td><strong>Milky Way</strong></td>
+<td>1:10²⁰ (mass)</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Human-scale Comparisons</h3>
+
+<ul>
+<li><strong>Walking around equator</strong>: 449,000 km = 25 years at 50 km/day</li>
+<li><strong>Falling through atmosphere to 1 bar</strong>: Would take ~5 minutes (terminal velocity)</li>
+<li><strong>Falling to core</strong>: Would take ~2 hours (if you survived)</li>
+<li><strong>Jupiter's mass in humans</strong>: 3 × 10²² humans (3 billion billion billion)</li>
+<li><strong>Jupiter's volume in Earths</strong>: 1,321 Earths could fit inside</li>
+</ul>
+
+<h2>24. Mysteries & Unsolved Questions</h2>
+
+<ol>
+<li><strong>Core structure</strong>: Exactly how "fuzzy" is the core? What's the distribution of heavy elements? [citation:10]</li>
+<li><strong>Water abundance</strong>: Galileo probe sampled a dry hotspot—what's the global water abundance? [citation:7]</li>
+<li><strong>Deep winds</strong>: How deep do zonal winds extend? (Juno suggests ~3,000 km)</li>
+<li><strong>Dynamo generation</strong>: Exactly how does the magnetic field generate? Why the Great Blue Spot? [citation:4]</li>
+<li><strong>Helium rain</strong>: Is helium rain currently active? How does it affect structure? [citation:10]</li>
+<li><strong>Great Red Spot longevity</strong>: Why has it lasted so long? Will it eventually disappear?</li>
+<li><strong>Galilean moon formation</strong>: How exactly did the regular satellite system form? [citation:6]</li>
+<li><strong>Trojan asteroids</strong>: What's their exact origin? (captured Kuiper Belt objects?) [citation:6]</li>
+<li><strong>Ring composition</strong>: Detailed composition and dynamics of ring particles</li>
+<li><strong>Atmospheric chemistry</strong>: Exact coloring agents for belts and Great Red Spot [citation:3]</li>
+<li><strong>Internal stratification</strong>: Are there multiple stable layers in the interior? [citation:10]</li>
+<li><strong>Formation migration</strong>: Did Jupiter do a "Grand Tack"? How far did it migrate? [citation:1]</li>
+</ol>
+
+<h3>Upcoming Answers</h3>
+
+<ul>
+<li><strong>Juno extended mission</strong> (through 2025): High-resolution gravity and magnetic field mapping [citation:4]</li>
+<li><strong>JUICE mission</strong> (ESA, arriving 2031): Detailed study of Ganymede, Europa, Callisto [citation:9]</li>
+<li><strong>Europa Clipper</strong> (NASA, arriving 2030): Focus on Europa's habitability</li>
+<li><strong>Future missions</strong>: Possible probe to measure deep water abundance</li>
+</ul>
+
+<h2>25. Summary Table</h2>
+
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Summary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Identity</strong></td>
+<td>Largest planet, gas giant, king of Solar System</td>
+</tr>
+<tr>
+<td><strong>Age</strong></td>
+<td>4.6 billion years (oldest planet, formed ~1 Myr after Sun) [citation:1]</td>
+</tr>
+<tr>
+<td><strong>Composition</strong></td>
+<td>90% H, 10% He (similar to Sun), enriched in heavy elements (~3× solar)</td>
+</tr>
+<tr>
+<td><strong>Structure</strong></td>
+<td>Fuzzy core (rock/ice), metallic H envelope, molecular H envelope, atmosphere [citation:10]</td>
+</tr>
+<tr>
+<td><strong>Atmosphere</strong></td>
+<td>H₂-He, bands (belts/zones), Great Red Spot, ammonia clouds</td>
+</tr>
+<tr>
+<td><strong>Temperature</strong></td>
+<td>Cloud tops 120 K (-153°C), deep atmosphere 300-1,000 K, core 20,000 K</td>
+</tr>
+<tr>
+<td><strong>Pressure</strong></td>
+<td>1 bar at cloud tops, millions bar at depth</td>
+</tr>
+<tr>
+<td><strong>Rotation</strong></td>
+<td>9h 55m (System III), differential rotation (equator faster) [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Year</strong></td>
+<td>11.86 Earth years</td>
+</tr>
+<tr>
+<td><strong>Magnetic field</strong></td>
+<td>Immense, 20,000× Earth's, largest magnetosphere [citation:4][citation:7]</td>
+</tr>
+<tr>
+<td><strong>Rings</strong></td>
+<td>Faint, dusty, 4 components [citation:7]</td>
+</tr>
+<tr>
+<td><strong>Moons</strong></td>
+<td>95 known, including 4 Galilean moons [citation:3]</td>
+</tr>
+<tr>
+<td><strong>Life?</strong></td>
+<td>Jupiter itself unlikely (no liquid water); Europa and Ganymede promising [citation:9]</td>
+</tr>
+<tr>
+<td><strong>Failed star?</strong></td>
+<td>No—needs 13× mass for deuterium fusion, 80× for hydrogen fusion [citation:1][citation:8]</td>
+</tr>
+<tr>
+<td><strong>Black hole?</strong></td>
+<td>No (insufficient mass)</td>
+</tr>
+<tr>
+<td><strong>Future</strong></td>
+<td>Slowly cooling, contracting; will survive Sun's red giant phase</td>
+</tr>
+<tr>
+<td><strong>Significance</strong></td>
+<td>Prototype for gas giants, shields inner system from comets, key to Solar System formation</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<p>This comprehensive overview covers Jupiter from its quantum-level origins to its galactic context, from its rapid formation within 1 million years of the Sun to its current state as the king of planets. Jupiter stands as a world of extremes—the largest planet, the strongest magnetic field, the most powerful auroras, and a miniature solar system of 95 moons. It likely shaped the entire Solar System's evolution through its migration, scattered material that formed the planets, and continues to protect the inner system by deflecting comets. As the subject of intense study by Juno, JUICE, and Europa Clipper, Jupiter holds keys to understanding not only our own Solar System's history but also the thousands of giant exoplanets discovered around other stars.</p>
+</html>
